@@ -1,0 +1,46 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.claseColorDiv
+{
+background-color:gray;
+width: 100%;
+height: 50px;
+margin: auto;
+margin-top: 10px;
+}
+
+.claseColorDiv2
+{
+background-color:gray;
+width: 100%;
+height: 30px;
+margin: auto;
+margin-top: 10px;
+}
+
+.claseColorDiv3
+{
+background-color:white;
+width: 50%;
+height: 300px;
+margin: auto;
+margin-top: 10px;
+}
+
+.textoP
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  font-size: 18px; 
+  word-spacing: 10px;
+  color: #D9CF34;
+  color: rgb(red, green, blue) ;
+  color: rgba(red, green, blue, alpha);   
+}
+
+
+
+
